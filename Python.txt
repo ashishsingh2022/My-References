@@ -5,3 +5,7 @@ https://pythonprogramming.net/flask-homepage-improvements/
 
 You tube 
 https://www.youtube.com/watch?v=I2dJuNwlIH0
+
+
+Query Strings
+https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask
